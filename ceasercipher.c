@@ -1,6 +1,6 @@
-#include<stdio.h>
+// #include<stdio.h>
 
-#include<ctype.h>
+// #include<ctype.h>
 
 int main() {
 
