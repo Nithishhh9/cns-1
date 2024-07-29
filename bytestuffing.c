@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-void main()
+int main()
 {
     char frame[50][50], str[50][50];
     char flag[10];
@@ -42,4 +42,5 @@ void main()
     {
         printf("%s\t", frame[i]);
     }
+    return 0;
 }
